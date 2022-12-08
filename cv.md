@@ -54,7 +54,10 @@ I can be responsible and quickly study.
 
 ### Work Experience:
 
-I have little experience in Frontend development. I worked with small project 2 years ago.
+I have little experience in Frontend development. 
+I have some examples of work on Git Hub:
+https://github.com/ViktoriaGalonskaya
+[Git Hub][https://github.com/ViktoriaGalonskaya]
 
 -----
 
@@ -71,5 +74,7 @@ I have little experience in Frontend development. I worked with small project 2 
 - **Russian** - Native
 
 - **English** - Pre-Intermediate
+
+- **Polish** - Basic
 
 ------
