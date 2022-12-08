@@ -16,3 +16,60 @@ I like traveling, yoga, and cats.
 I can be responsible and quickly study.
 
 -----
+
+### Skills:
+
+* **HTML**
+* **CSS (SCSS/SASS)**
+* **Figma**
+* **Zeplin**
+* **Prepros**
+* **Photoshop**
+* **Git/GitHub**
+
+-----
+
+### Code Example:
+
+```
+    new Swiper('.everyday__courusel', {
+      pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+      },
+      slidesPerView: 1,
+      autohight: true,
+      centeredSlides: true,
+      slideToClickedSlide: true,
+      mousewheel: true,
+      keyboard: {
+          enabled: true,
+      },
+      loop: true,
+      speed: 950,
+    });
+```
+
+-----
+
+### Work Experience:
+
+I have little experience in Frontend development. I worked with small project 2 years ago.
+
+-----
+
+### Education:
+
+- **Francisk Skorina Gomel State University/Economist**
+
+- **TechMeSkills/FrontEnd Developer**
+
+-----
+
+### Languages:
+
+- **Russian** - Native
+
+- **English** - Pre-Intermediate
+
+------
