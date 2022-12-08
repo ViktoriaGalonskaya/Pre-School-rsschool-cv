@@ -55,9 +55,7 @@ I can be responsible and quickly study.
 ### Work Experience:
 
 I have little experience in Frontend development. 
-I have some examples of work on Git Hub:
-https://github.com/ViktoriaGalonskaya
-[Git Hub][https://github.com/ViktoriaGalonskaya]
+I have some examples of work on [Git Hub][https://github.com/ViktoriaGalonskaya]
 
 -----
 
