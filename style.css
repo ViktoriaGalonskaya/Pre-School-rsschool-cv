@@ -16,10 +16,6 @@ a {
    text-decoration: none;
 }
 
-a:visited {
-   color: #54676e;
-}
-
 ul li {
    list-style: none;
 }
@@ -56,10 +52,6 @@ ul li {
    background-color: #88c8dd;
 }
 
-.header__container {}
-
-.header__menu {}
-
 .header__list {
    display: flex;
    justify-content: space-around;
@@ -82,10 +74,6 @@ ul li {
 }
 
 /* Block Main */
-.main {}
-
-.main__container {}
-
 .section-profile {
    display: flex;
    justify-content: space-around;
@@ -138,10 +126,6 @@ ul li {
    }
 }
 
-.section-contacts {}
-
-.section-contacts__title {}
-
 .section-contacts__list {
    display: flex;
    justify-content: space-between;
@@ -159,16 +143,6 @@ ul li {
    text-decoration: underline;
 }
 
-.section-about {}
-
-.section-about__title {}
-
-.section-about__description {}
-
-.section-skills {}
-
-.section-skills__title {}
-
 .section-skills__list {
    padding: 0 40px;
 }
@@ -181,10 +155,6 @@ ul li {
    margin-bottom: 10px;
 }
 
-.section-code {}
-
-.section-code__title {}
-
 .section-code__wrap {
    width: fit-content;
 }
@@ -194,31 +164,13 @@ ul li {
    font-size: 12px;
 }
 
-.section-experience {}
-
-.section-experience__title {}
-
-.section-experience__description {}
-
 .section-experience__link:hover {
    text-decoration: underline;
 }
 
-.section-education {}
-
-.section-education__title {}
-
-.section-education__list {}
-
-.section-education__item {}
-
 .section-education__link:hover {
    text-decoration: underline;
 }
-
-.section-languages {}
-
-.section-languages__title {}
 
 .section-languages__list {
    padding: 0 40px;
@@ -257,8 +209,6 @@ ul li {
    font-size: 14px;
 }
 
-.copyright__links {}
-
 .copyright__link {
    margin-left: 10px;
 }
@@ -271,10 +221,6 @@ ul li {
 .footer__school {
    padding: 20px;
 }
-
-.rss {}
-
-.rss__link {}
 
 .rss__logo {
    height: 30px;
